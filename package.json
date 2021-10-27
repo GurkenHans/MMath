@@ -1,0 +1,15 @@
+{
+  "name": "mmath",
+  "version": "1.0.0",
+  "description": "Advanced math for js",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "author": "Nboerger",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "rollup": "^2.58.3",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
